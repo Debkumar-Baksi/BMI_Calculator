@@ -54,7 +54,6 @@ Follow these steps to set up and run the application:
 Install the required libraries:
 
 ```bash
-Copy code
 pip install pillow
 ```
 4. **Add Required Files**:
