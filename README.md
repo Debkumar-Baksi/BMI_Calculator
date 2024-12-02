@@ -47,7 +47,7 @@ Follow these steps to set up and run the application:
 
 2. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/yourusername/bmi-calculator.git
+   git clone https://github.com/Debkumar-Baksi/bmi-calculator.git
    cd bmi-calculator
    ```
 3. **Install Dependencies**:
